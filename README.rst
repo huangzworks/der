@@ -33,7 +33,7 @@ DER
 
 1. 编辑 ``der`` 文件夹中的 ``layout.html`` 文件，修改文件中和 disqus 有关的语句：
 
-    ::
+   ::
 
         {# note: remove this comment if you want to enable disqus support
 
@@ -41,15 +41,15 @@ DER
 
         #}
 
-    只保留这一句：
+   只保留这一句：
 
-    ::
+   ::
         
         {% include "disqus.html" %}
 
 2. 编辑 ``der`` 文件夹中的 ``disqus.html`` 文件，将其中的
 
-    ::
+   ::
 
         var disqus_shortname = 'YOUR-DISQUS-FORUM-SHORTNAME';
     
