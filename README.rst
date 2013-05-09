@@ -61,7 +61,7 @@ DER
 使用许可
 ---------------------
 
-本样式修改自 `Sphinx <http://http://sphinx-doc.org/>`_ 项目自带的 pyramid 样式，
+本样式修改自 `Sphinx <http://sphinx-doc.org/>`_ 项目自带的 pyramid 样式，
 使用与源项目同样的 BSD 协议发布。
 
 | Copyright (c) 2013, huangz
